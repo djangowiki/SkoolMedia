@@ -9,7 +9,7 @@ was told to focus on another project 😌. Just think of this as an initial scaf
 To look at my simple setup and run the project on your computer, start with seetting up a virtual environment for your local computer.
 Run this code: `python3 -m venv venv`. Start the virtual environment with this command for mac: `source venv/bin/activate`. Once you activate the virtual environment, simply run this command `pip3 install django`. Finally, run the project using this command: `python3 manage.py runserver`.
 
-# Disclainer.
+# Disclaimer.
 This project is for testing and demonstration purposes only.
 
 
