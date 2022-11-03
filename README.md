@@ -7,7 +7,7 @@ This is a recipe API built with **Django**, **Django Rest Framework** and **Pyth
 The API takes advantage of the Django built-in authentication system and extends it. The default Django login with username and password was replaced with login with email address and password. The API also makes use of the builth in **Django testing suite** to implement testing for the entire codebase. 
 
 For better documentation, the API uses the **Swagger Open API documentation**, although you could still use the default Django Rest Framework API templates. Finally, the API was deployed on **Amazon EC2**, an Amazon AWS service. You can check it out on this url: https://ec2-52-91-166-79.compute-1.amazonaws.com/ If you accessing this link in the future and it's not available, just know that I have deleted or stopped this EC2 instance as I dont want Amazon to be charging me. 🤓
-![SkoolMedia Django site](https://www.dailywire.ng/wp-content/uploads/2022/11/SkoolMedia-Django-Site.png)
+![SkoolMedia Django site](https://www.dailywire.ng/wp-content/uploads/2022/11/Skoolmedia-Django-Site-1.png)
 
 # Getting Started
 You can clone or fork this repository. Start with seetting up a virtual environment for your local computer.
